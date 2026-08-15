@@ -37,3 +37,4 @@ the final component and color system. High-fidelity screens, the design
 system, and all UI decisions were done manually in Figma.
 
 Full case study (problem, research, wireframes, iteration): https://app.notion.com/p/UI-UX-Case-Study-3b6b9621fd6a806f9abbcbe98df163a8?v=733b9621fd6a835e83f988b5e2a9bca0&source=copy_link
+Case study on Behance: https://www.behance.net/gallery/254272019/Aurelle-Skincare-UIUX-Case-Study
